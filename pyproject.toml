@@ -7,7 +7,7 @@ authors = ["KhulnaSoft Lab. <security@khulnasoft.com>"]
 [tool.poetry.dependencies]
 python = "^3.12"
 readyapi = "^0.110.0"
-uvicorn = "^0.17.1"
+uvicorn = "^0.30.0"
 jinja2 = "^3.1.3"
 
 [tool.poetry.scripts]
